@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/api/github.ts","./src/components/repoform.tsx","./src/components/repoitem.tsx","./src/components/repolist.tsx","./src/pages/loginpage.tsx","./src/pages/repospage.tsx","./src/store/authslice.ts","./src/store/index.ts","./src/store/sortslice.ts"],"version":"5.7.3"}
