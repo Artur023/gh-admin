@@ -2,7 +2,7 @@ import { createSlice, PayloadAction } from '@reduxjs/toolkit'
 
 export type SortOption = 'updated' | 'full_name'
 
-interface SortState {
+export interface SortState {
     sortOption: SortOption
 }
 
